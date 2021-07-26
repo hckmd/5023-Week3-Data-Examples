@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<recipes>
+    <recipe name="Spiced Beans" serves="6">
+        <ingredients>
+            <ingredient>1 large red onion</ingredient>
+            <ingredient>2 x 400g cans 3-bean mix</ingredient>
+            <ingredient>2 x 400g cans diced tomatoes</ingredient>
+            <ingredient>2 tbsp. Cajun spice</ingredient>
+        </ingredients>
+    </recipe>
+    <recipe name="Breakfast Bars" serves="8">
+        <ingredients>
+            <ingredient>2 cups mixed dried fruit</ingredient>
+            <ingredient>1 cup raw pecans</ingredient>
+            <ingredient>1 cup shredded coconut</ingredient>
+            <ingredient>1/4 cup fruit juice</ingredient>
+        </ingredients>
+    </recipe>
+    <recipe name="Cauliflower Nuggets" serves="4">
+        <ingredients>
+            <ingredient>750g head of cauliflower</ingredient>
+            <ingredient>1 egg</ingredient>
+            <ingredient>1/4 egg Italian seasoned breadcrumbs</ingredient>
+            <ingredient>100g grated 3-cheese mix</ingredient>
+        </ingredients>
+    </recipe>
+</recipes>
