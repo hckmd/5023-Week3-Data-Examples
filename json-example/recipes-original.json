@@ -1,0 +1,32 @@
+{"recipes": [
+    {
+        "name": "Spiced Beans",
+        "serves": 6,
+        "ingredients": [
+            "1 large red onion",
+            "2 x 400g cans 3-bean mix",
+            "2 x 400g cans diced tomatoes",
+            "2 tbsp. Cajun spice"
+        ]
+    },
+    {
+        "name": "Breakfast Bars",
+        "serves": 8,
+        "ingredients": [
+            "2 cups mixed dried fruit",
+            "1 cup raw pecans",
+            "1 cup shredded coconut",
+            "1/4 cup fruit juice"
+        ]
+    },
+    {
+        "name": "Cauliflower Nuggets",
+        "serves": 4,
+        "ingredients": [
+            "750g head of cauliflower",
+            "1 egg",
+            "1/4 egg Italian seasoned breadcrumbs",
+            "100g grated 3-cheese mix"   
+        ]
+    }
+]}
